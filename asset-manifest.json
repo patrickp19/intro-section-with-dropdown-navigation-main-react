@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/intro-section-with-dropdown-navigation-main-react/static/css/main.b046ee14.css",
-    "main.js": "/intro-section-with-dropdown-navigation-main-react/static/js/main.82146c45.js",
-    "static/js/787.6bff33b0.chunk.js": "/intro-section-with-dropdown-navigation-main-react/static/js/787.6bff33b0.chunk.js",
+    "main.js": "/intro-section-with-dropdown-navigation-main-react/static/js/main.7c951996.js",
+    "static/js/787.344693f3.chunk.js": "/intro-section-with-dropdown-navigation-main-react/static/js/787.344693f3.chunk.js",
     "static/media/image-hero-desktop.png": "/intro-section-with-dropdown-navigation-main-react/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
     "static/media/image-hero-mobile.png": "/intro-section-with-dropdown-navigation-main-react/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
     "static/media/logo.svg": "/intro-section-with-dropdown-navigation-main-react/static/media/logo.1c174ccea84ec59ff8801662c788919d.svg",
@@ -10,11 +10,11 @@
     "static/media/icon-arrow-down.svg": "/intro-section-with-dropdown-navigation-main-react/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
     "static/media/icon-arrow-up.svg": "/intro-section-with-dropdown-navigation-main-react/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
     "main.b046ee14.css.map": "/intro-section-with-dropdown-navigation-main-react/static/css/main.b046ee14.css.map",
-    "main.82146c45.js.map": "/intro-section-with-dropdown-navigation-main-react/static/js/main.82146c45.js.map",
-    "787.6bff33b0.chunk.js.map": "/intro-section-with-dropdown-navigation-main-react/static/js/787.6bff33b0.chunk.js.map"
+    "main.7c951996.js.map": "/intro-section-with-dropdown-navigation-main-react/static/js/main.7c951996.js.map",
+    "787.344693f3.chunk.js.map": "/intro-section-with-dropdown-navigation-main-react/static/js/787.344693f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b046ee14.css",
-    "static/js/main.82146c45.js"
+    "static/js/main.7c951996.js"
   ]
 }
