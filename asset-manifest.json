@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/intro-with-dropdown-navigation-main-react/static/css/main.7fa847ef.css",
-    "main.js": "/intro-with-dropdown-navigation-main-react/static/js/main.92a31aac.js",
-    "static/js/787.5fc826b1.chunk.js": "/intro-with-dropdown-navigation-main-react/static/js/787.5fc826b1.chunk.js",
-    "static/media/image-hero-desktop.png": "/intro-with-dropdown-navigation-main-react/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
-    "static/media/image-hero-mobile.png": "/intro-with-dropdown-navigation-main-react/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
-    "static/media/logo.svg": "/intro-with-dropdown-navigation-main-react/static/media/logo.1c174ccea84ec59ff8801662c788919d.svg",
-    "index.html": "/intro-with-dropdown-navigation-main-react/index.html",
-    "static/media/icon-arrow-down.svg": "/intro-with-dropdown-navigation-main-react/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
-    "static/media/icon-arrow-up.svg": "/intro-with-dropdown-navigation-main-react/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
-    "main.7fa847ef.css.map": "/intro-with-dropdown-navigation-main-react/static/css/main.7fa847ef.css.map",
-    "main.92a31aac.js.map": "/intro-with-dropdown-navigation-main-react/static/js/main.92a31aac.js.map",
-    "787.5fc826b1.chunk.js.map": "/intro-with-dropdown-navigation-main-react/static/js/787.5fc826b1.chunk.js.map"
+    "main.css": "/intro-section-with-dropdown-navigation-main-react/static/css/main.b046ee14.css",
+    "main.js": "/intro-section-with-dropdown-navigation-main-react/static/js/main.82146c45.js",
+    "static/js/787.6bff33b0.chunk.js": "/intro-section-with-dropdown-navigation-main-react/static/js/787.6bff33b0.chunk.js",
+    "static/media/image-hero-desktop.png": "/intro-section-with-dropdown-navigation-main-react/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "static/media/image-hero-mobile.png": "/intro-section-with-dropdown-navigation-main-react/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
+    "static/media/logo.svg": "/intro-section-with-dropdown-navigation-main-react/static/media/logo.1c174ccea84ec59ff8801662c788919d.svg",
+    "index.html": "/intro-section-with-dropdown-navigation-main-react/index.html",
+    "static/media/icon-arrow-down.svg": "/intro-section-with-dropdown-navigation-main-react/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
+    "static/media/icon-arrow-up.svg": "/intro-section-with-dropdown-navigation-main-react/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
+    "main.b046ee14.css.map": "/intro-section-with-dropdown-navigation-main-react/static/css/main.b046ee14.css.map",
+    "main.82146c45.js.map": "/intro-section-with-dropdown-navigation-main-react/static/js/main.82146c45.js.map",
+    "787.6bff33b0.chunk.js.map": "/intro-section-with-dropdown-navigation-main-react/static/js/787.6bff33b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fa847ef.css",
-    "static/js/main.92a31aac.js"
+    "static/css/main.b046ee14.css",
+    "static/js/main.82146c45.js"
   ]
 }
