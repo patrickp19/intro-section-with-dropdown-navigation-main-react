@@ -4,7 +4,7 @@ import { Outlet } from "react-router-dom";
 import downArrow from "../../images/icon-arrow-down.svg";
 import upArrow from "../../images/icon-arrow-up.svg";
 import logo from "../../images/logo.svg";
-import hamburger from "../../images/icon-menu.svg";
+import hamburger from "../images/icon-menu.svg";
 
 import "./nav.styles.css";
 
