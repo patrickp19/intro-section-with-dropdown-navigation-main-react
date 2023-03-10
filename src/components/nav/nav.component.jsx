@@ -36,7 +36,7 @@ class Nav extends Component {
           <a className="logo-container" href="/">
             <img className="logo" src={logo} alt="" />
           </a>
-          <div className="hamburger-container">
+          <a className="hamburger-container">
             <img
               className="hamburger"
               src={hamburger}
@@ -44,7 +44,7 @@ class Nav extends Component {
               onClick={this.hamburgerEvent}
             />
             <div className="darken"></div>
-          </div>
+          </a>
           <ul className="nav">
             <div className="nav-list left-nav  flex">
               <li
