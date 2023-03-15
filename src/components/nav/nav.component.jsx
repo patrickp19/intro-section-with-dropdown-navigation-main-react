@@ -1,5 +1,5 @@
 import { Component } from "react";
-import { Outlet } from "react-router-dom";
+import { Outlet, Link } from "react-router-dom";
 
 import downArrow from "../../images/icon-arrow-down.svg";
 import upArrow from "../../images/icon-arrow-up.svg";
@@ -33,9 +33,9 @@ class Nav extends Component {
     return (
       <div>
         <nav className="hide-mobile-nav">
-          <a className="logo-container" href="/">
+          <Link to="/" className="logo-container" href="/">
             <img className="logo" src={logo} alt="" />
-          </a>
+          </Link>
           <a className="hamburger-container">
             <img
               className="hamburger"
@@ -45,6 +45,7 @@ class Nav extends Component {
             />
             <div className="darken"></div>
           </a>
+
           <ul className="nav">
             <div className="nav-list left-nav  flex">
               <li
@@ -110,11 +111,17 @@ class Nav extends Component {
               <li>About</li>
             </div>
             <div className="nav-list right-nav flex">
-              <li>Login</li>
               <li>
-                <a className="btn btn--secondary" href="/login">
+                <Link to="/sign-in">Login</Link>
+              </li>
+              <li>
+                <Link
+                  to="/register"
+                  className="btn btn--secondary"
+                  href="/register"
+                >
                   Register
-                </a>
+                </Link>
               </li>
             </div>
           </ul>
